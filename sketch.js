@@ -10,7 +10,7 @@ var gamestate = "onsling";
 var engine, world;
 
 function preload(){
-	backimage = loadImage("Plucking+mangoes/Mountain_and_Meadow_Ground_PNG_Cartoon_Image.png");
+	backimage = loadImage("Plucking+mangoes/1.png");
 }
 
 function setup() {
